@@ -15,6 +15,9 @@ This is a starter HTML5 templates which is configured with Vercel Analytics (thr
 
 # Useful info
 
+## Github Online Editor
+https://github.dev/VladSez/html-vercel-simple/blob/main/index.html
+
 ## Vercel
 https://vercel.com/vladsazon27s-projects/html-vercel-simple
 
@@ -24,6 +27,6 @@ https://html-vercel-simple.vercel.app/
 ## Repo URL
 https://github.com/VladSez/html-vercel-simple
 
-## New.css Docs
+## New.css Docs and Demo
 https://newcss.net/
 https://newcss.net/demo/
